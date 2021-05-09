@@ -3,7 +3,7 @@ import Chart from "react-apexcharts";
 import { BASE_URL } from "utils/requests";
 import { useEffect, useState } from "react";
 import { SuccessSeller } from "models/successSeller";
-import { round } from "utils/round";
+import { round } from "utils/roundPercentage";
 
 type ChartData = {
   labels: {

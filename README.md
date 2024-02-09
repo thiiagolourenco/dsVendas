@@ -28,9 +28,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 1. Front-end:
-  - TypeScript, HTML e CSS,
-  - [JQuery](https://www.npmjs.com/package/@types/jquery),
-  - [Bootstrap](https://getbootstrap.com/).
+  - TypeScript, HTML e CSS
 
 2. Back-end:
   - [Java Spring Boot](https://spring.io/)
